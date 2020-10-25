@@ -5,3 +5,4 @@ To create a project, run.
 `npx create-react-app my-app
 cd my-app
 npm start`
+<img src="Images/Createapp.png" height="100"/>
