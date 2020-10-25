@@ -8,3 +8,9 @@ npm start`
 <img src="Images/Createapp.png" height="75px"/>
 
 ---
+Component
+
+App.js is a component. file that holds all the logic in one file.
+
+1- create React from React
+2- create function
