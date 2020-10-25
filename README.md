@@ -14,4 +14,6 @@ App.js is a component. file that holds all the logic in one file.
 1- create React from React. 
 2- create function. 
 3- export it. 
-4- ReactDom.render.   
+4- ReactDom.render.
+
+# <div id="root"></div> container for our react Application
