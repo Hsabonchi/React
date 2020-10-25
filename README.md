@@ -10,8 +10,7 @@ npm start`
 ---
 Component
 
-App.js is a component. file that holds all the logic in one file.
-
+App.js is a component. file that holds all the logic in one file.   
 1- create React from React. 
 2- create function. 
 3- export it. 
