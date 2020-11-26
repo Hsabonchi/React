@@ -29,7 +29,7 @@ App.js is a component. file that holds all the logic in one file.
 
 <h5> <div id="root"></div> container for our react Application </h5>
 
-imrc short for import react component on the VS editor
-cc short for create class
+- imrc short for import react component on the VS editor
+ - cc short for create class.
 
 
