@@ -10,6 +10,7 @@ npm start`
 
 ### Install bootsrap
   - npm i bootsrap
+  - add into index.js file `import 'bootstrap/dist/css/bootstrap.css'`
 
 
 
