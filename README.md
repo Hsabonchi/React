@@ -6,6 +6,16 @@ To create a project, run.
 cd my-app
 npm start`
 <img src="Images/Createapp.png" height="75px"/>
+---
+
+### Install bootsrap
+  - npm i bootsrap
+
+
+
+
+
+
 
 ---
 Component
