@@ -8,20 +8,16 @@ To create a project, run.
 cd my-app
 npm start`
 <img src="Images/Createapp.png" height="75px"/>
+
+
 ---
 
-### Install bootsrap
+### Install and import bootsrap in React
   - npm i bootsrap
   - Import it into `import 'bootstrap/dist/css/bootstrap.css' ` into index.js file
 
-
-
-
-
-
-
 ---
-Component
+#### Component
 
 App.js is a component. file that holds all the logic in one file.     
 - create React from React.  
@@ -32,6 +28,14 @@ App.js is a component. file that holds all the logic in one file.
 <h5> <div id="root"></div> container for our react Application </h5>
 
 - `imrc` short for import react component on the VS editor
- - `cc` short for create class.
+- `cc` short for create class.
+
+#### state
+  
+- stateis a property for React component.
+- object that contains all the component need.
+
+#### style
+- inLine  `<span  style={{fontSize:20}}`
 
 
