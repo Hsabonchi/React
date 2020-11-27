@@ -32,8 +32,13 @@ App.js is a component. file that holds all the logic in one file.
 
 #### state
   
-- stateis a property for React component.
+- state is a property for React component(data local or private to component).
 - object that contains all the component need.
+
+#### props
+- props includes data that we give to a component.
+- read only.
+- To initialize the state
 
 #### style
 - inLine  `<span  style={{fontSize:20}}`
