@@ -22,13 +22,14 @@ To define a React component class, you need to do the followings.
 
   - Extend React.Component using shortcut `imrc`.
   - You must define a method in a React.Component subclass is called render() 
-      - The render() method is the only required method in a class component.
-      - When render() called, it should examine this.props and this.state.
+      - The `render()` method is the only required method in a class component.
+      - When `render()` called, it should examine this.props and this.state.
       - if you need to interact with the browser, perform your work in componentDidMount() 
-   - constructor(props)
+   - `constructor(props)`
       Typically, in React constructors are only used for two purposes:
         - Initializing local state by assigning an object to this.state.
         - Binding event handler methods to an instance.
+        - You should not call `setState()` in the constructor()
 
 
 App.js is a component. file that holds all the logic in one file.     
