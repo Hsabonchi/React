@@ -11,7 +11,7 @@ function GuestBook() {
     },
   ]);
   useEffect(() => {
-    axios.get("http://localhost:8080").then((res) => setEntries(res.data));
+    axios.get("http://localhost:8080/folders").then((res) => setEntries(res.data));
   }, []);
   return (
     <>
