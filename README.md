@@ -13,7 +13,7 @@ npm start`
 ---
 
 ### Install and import bootsrap in React
-  - npm i bootsrap
+  - npm i bootsrap@4
   - Import it into `import 'bootstrap/dist/css/bootstrap.css' ` into index.js file
 
 ---
