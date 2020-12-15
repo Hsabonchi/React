@@ -13,4 +13,5 @@
   
   
   Resources:
-  - [State Management in React](https://www.youtube.com/watch?v=tYJqGc0TD1g)
+  - [State Management in React](https://www.youtube.com/watch?v=tYJqGc0TD1g).
+  - [React for Building Single Page Applications (SPA)](https://www.youtube.com/watch?v=9_IHKj7npbA)
