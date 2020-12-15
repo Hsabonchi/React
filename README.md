@@ -7,3 +7,6 @@
   npm start </pre>
   
   ## Hooks
+  ### useEffect
+  - By default, it runs both after the first render and after every update.
+  - Placing useEffect inside the component lets us access the count state variable (or any props) right from the effect. 
